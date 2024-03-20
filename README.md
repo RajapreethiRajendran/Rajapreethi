@@ -11,7 +11,7 @@
 
 
 <h2>Data Engineering Projects:</h2>
-  - [Azure End to End Data Engineering]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/RajapreethiRajendran/Azure-End-To-End-Data-Engineering))
+  - [Azure End to End Data Engineering](https://github.com/RajapreethiRajendran/Azure-End-To-End-Data-Engineering)
 
 
 <h2> 🤳 Connect with me:</h2>
