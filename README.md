@@ -5,6 +5,8 @@
 
 <h2>Cloud Computing Projects:</h2>
 
+ - [Live Rat Detection in Edge Node](https://github.com/RajapreethiRajendran/Rat_Detection/tree/main)
+
 
 
 <h2>Data Science Projects:</h2>
